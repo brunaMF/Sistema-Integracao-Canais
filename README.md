@@ -16,3 +16,10 @@ npm install
 npm run dev
 
 ```
+## Diagramas
+Os diagramas se encontram na pasta **Diagramas** na seguinte ordem:
+* Diagrama para apresentar a visão arquitetural da infraestrutura necessária para suportar este produto: **diagrama_container.png**.
+* Diagrama de Design da Solução para apresentar a organização do software: **diagrama_component.png**.
+
+## Respostas para as questões
+As respostas para as questões presentes no desafio técnico se encontram na pasta **Respostas para as questões**.
